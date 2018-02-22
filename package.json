@@ -1,0 +1,19 @@
+{
+  "name": "wdi-project-4-backend",
+  "version": "1.0.0",
+  "description": "back end to serve seeded Toggl timesheet data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatohammado/wdi-project-4-backend.git"
+  },
+  "author": "Hammad Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomatohammado/wdi-project-4-backend/issues"
+  },
+  "homepage": "https://github.com/tomatohammado/wdi-project-4-backend#readme"
+}
