@@ -5,7 +5,7 @@
         "startTime": "09:12:25",
         "endDate": "2017-11-27",
         "endTime": "10:15:28",
-        "duraction": "01:03:03",
+        "duration": "01:03:03",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -17,7 +17,7 @@
         "startTime": "10:25:53",
         "endDate": "2017-11-27",
         "endTime": "11:14:58",
-        "duraction": "00:49:05",
+        "duration": "00:49:05",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -29,7 +29,7 @@
         "startTime": "11:21:26",
         "endDate": "2017-11-27",
         "endTime": "11:48:26",
-        "duraction": "00:27:00",
+        "duration": "00:27:00",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -41,7 +41,7 @@
         "startTime": "12:00:27",
         "endDate": "2017-11-27",
         "endTime": "12:07:42",
-        "duraction": "00:07:15",
+        "duration": "00:07:15",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -53,7 +53,7 @@
         "startTime": "14:30:37",
         "endDate": "2017-11-27",
         "endTime": "15:21:48",
-        "duraction": "00:51:11",
+        "duration": "00:51:11",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -65,7 +65,7 @@
         "startTime": "15:31:22",
         "endDate": "2017-11-27",
         "endTime": "16:13:30",
-        "duraction": "00:42:08",
+        "duration": "00:42:08",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -77,7 +77,7 @@
         "startTime": "08:37:57",
         "endDate": "2017-11-28",
         "endTime": "08:59:50",
-        "duraction": "00:21:53",
+        "duration": "00:21:53",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -89,7 +89,7 @@
         "startTime": "08:59:54",
         "endDate": "2017-11-28",
         "endTime": "09:52:42",
-        "duraction": "00:52:48",
+        "duration": "00:52:48",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -101,7 +101,7 @@
         "startTime": "10:02:04",
         "endDate": "2017-11-28",
         "endTime": "11:03:27",
-        "duraction": "01:01:23",
+        "duration": "01:01:23",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -113,7 +113,7 @@
         "startTime": "11:16:01",
         "endDate": "2017-11-28",
         "endTime": "12:32:46",
-        "duraction": "01:16:45",
+        "duration": "01:16:45",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -125,7 +125,7 @@
         "startTime": "13:41:07",
         "endDate": "2017-11-28",
         "endTime": "14:09:03",
-        "duraction": "00:27:56",
+        "duration": "00:27:56",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -137,7 +137,7 @@
         "startTime": "14:09:05",
         "endDate": "2017-11-28",
         "endTime": "14:30:51",
-        "duraction": "00:21:46",
+        "duration": "00:21:46",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -149,7 +149,7 @@
         "startTime": "14:30:55",
         "endDate": "2017-11-28",
         "endTime": "15:10:37",
-        "duraction": "00:39:42",
+        "duration": "00:39:42",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -161,7 +161,7 @@
         "startTime": "15:20:06",
         "endDate": "2017-11-28",
         "endTime": "16:05:11",
-        "duraction": "00:45:05",
+        "duration": "00:45:05",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -173,7 +173,7 @@
         "startTime": "16:19:04",
         "endDate": "2017-11-28",
         "endTime": "17:27:25",
-        "duraction": "01:08:21",
+        "duration": "01:08:21",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -185,7 +185,7 @@
         "startTime": "09:00:56",
         "endDate": "2017-11-29",
         "endTime": "09:37:56",
-        "duraction": "00:37:00",
+        "duration": "00:37:00",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -197,7 +197,7 @@
         "startTime": "10:01:24",
         "endDate": "2017-11-29",
         "endTime": "10:51:51",
-        "duraction": "00:50:27",
+        "duration": "00:50:27",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -209,7 +209,7 @@
         "startTime": "11:02:58",
         "endDate": "2017-11-29",
         "endTime": "11:42:08",
-        "duraction": "00:39:10",
+        "duration": "00:39:10",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -221,7 +221,7 @@
         "startTime": "11:48:35",
         "endDate": "2017-11-29",
         "endTime": "12:50:08",
-        "duraction": "01:01:33",
+        "duration": "01:01:33",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -233,7 +233,7 @@
         "startTime": "13:45:15",
         "endDate": "2017-11-29",
         "endTime": "14:35:20",
-        "duraction": "00:50:05",
+        "duration": "00:50:05",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -245,7 +245,7 @@
         "startTime": "14:35:21",
         "endDate": "2017-11-29",
         "endTime": "16:18:36",
-        "duraction": "01:43:15",
+        "duration": "01:43:15",
         "tags": [
             "wdi-class",
             "wdi-outcomes",
@@ -258,7 +258,7 @@
         "startTime": "17:25:53",
         "endDate": "2017-11-29",
         "endTime": "17:50:16",
-        "duraction": "00:24:23",
+        "duration": "00:24:23",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -270,7 +270,7 @@
         "startTime": "17:59:48",
         "endDate": "2017-11-29",
         "endTime": "20:19:06",
-        "duraction": "02:19:18",
+        "duration": "02:19:18",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -282,7 +282,7 @@
         "startTime": "09:00:07",
         "endDate": "2017-11-30",
         "endTime": "10:02:31",
-        "duraction": "01:02:24",
+        "duration": "01:02:24",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -294,7 +294,7 @@
         "startTime": "10:11:17",
         "endDate": "2017-11-30",
         "endTime": "11:21:41",
-        "duraction": "01:10:24",
+        "duration": "01:10:24",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -306,7 +306,7 @@
         "startTime": "11:41:53",
         "endDate": "2017-11-30",
         "endTime": "12:36:27",
-        "duraction": "00:54:34",
+        "duration": "00:54:34",
         "tags": [
             "wdi-lab",
             "wdi-week-1"
@@ -318,7 +318,7 @@
         "startTime": "13:18:46",
         "endDate": "2017-11-30",
         "endTime": "16:33:15",
-        "duraction": "03:14:29",
+        "duration": "03:14:29",
         "tags": [
             "wdi-lab",
             "wdi-week-1"
@@ -330,7 +330,7 @@
         "startTime": "16:33:18",
         "endDate": "2017-11-30",
         "endTime": "17:05:14",
-        "duraction": "00:31:56",
+        "duration": "00:31:56",
         "tags": [
             "wdi-class",
             "wdi-squad-scrum"
@@ -342,7 +342,7 @@
         "startTime": "09:03:07",
         "endDate": "2017-12-01",
         "endTime": "09:54:10",
-        "duraction": "00:51:03",
+        "duration": "00:51:03",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -354,7 +354,7 @@
         "startTime": "10:02:18",
         "endDate": "2017-12-01",
         "endTime": "10:32:59",
-        "duraction": "00:30:41",
+        "duration": "00:30:41",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -366,7 +366,7 @@
         "startTime": "10:42:36",
         "endDate": "2017-12-01",
         "endTime": "11:32:56",
-        "duraction": "00:50:20",
+        "duration": "00:50:20",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -378,7 +378,7 @@
         "startTime": "11:42:36",
         "endDate": "2017-12-01",
         "endTime": "12:30:20",
-        "duraction": "00:47:44",
+        "duration": "00:47:44",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -390,7 +390,7 @@
         "startTime": "13:48:11",
         "endDate": "2017-12-01",
         "endTime": "14:09:38",
-        "duraction": "00:21:27",
+        "duration": "00:21:27",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -402,7 +402,7 @@
         "startTime": "14:10:28",
         "endDate": "2017-12-01",
         "endTime": "14:29:19",
-        "duraction": "00:18:51",
+        "duration": "00:18:51",
         "tags": [
             "wdi-hw",
             "wdi-week-1"
@@ -414,7 +414,7 @@
         "startTime": "14:31:52",
         "endDate": "2017-12-01",
         "endTime": "15:36:08",
-        "duraction": "01:04:16",
+        "duration": "01:04:16",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -426,7 +426,7 @@
         "startTime": "15:46:20",
         "endDate": "2017-12-01",
         "endTime": "17:14:24",
-        "duraction": "01:28:04",
+        "duration": "01:28:04",
         "tags": [
             "wdi-class",
             "wdi-week-1"
@@ -438,7 +438,7 @@
         "startTime": "09:00:44",
         "endDate": "2017-12-04",
         "endTime": "09:57:02",
-        "duraction": "00:56:18",
+        "duration": "00:56:18",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -450,7 +450,7 @@
         "startTime": "10:09:17",
         "endDate": "2017-12-04",
         "endTime": "11:27:23",
-        "duraction": "01:18:06",
+        "duration": "01:18:06",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -462,7 +462,7 @@
         "startTime": "11:36:14",
         "endDate": "2017-12-04",
         "endTime": "12:34:10",
-        "duraction": "00:57:56",
+        "duration": "00:57:56",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -474,7 +474,7 @@
         "startTime": "13:23:07",
         "endDate": "2017-12-04",
         "endTime": "14:34:36",
-        "duraction": "01:11:29",
+        "duration": "01:11:29",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -486,7 +486,7 @@
         "startTime": "14:34:43",
         "endDate": "2017-12-04",
         "endTime": "14:35:00",
-        "duraction": "00:00:17",
+        "duration": "00:00:17",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -498,7 +498,7 @@
         "startTime": "14:35:11",
         "endDate": "2017-12-04",
         "endTime": "15:33:55",
-        "duraction": "00:58:44",
+        "duration": "00:58:44",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -510,7 +510,7 @@
         "startTime": "15:45:49",
         "endDate": "2017-12-04",
         "endTime": "16:30:54",
-        "duraction": "00:45:05",
+        "duration": "00:45:05",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -522,7 +522,7 @@
         "startTime": "16:40:27",
         "endDate": "2017-12-04",
         "endTime": "17:08:36",
-        "duraction": "00:28:09",
+        "duration": "00:28:09",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -534,7 +534,7 @@
         "startTime": "17:08:57",
         "endDate": "2017-12-04",
         "endTime": "17:12:00",
-        "duraction": "00:03:03",
+        "duration": "00:03:03",
         "tags": [
             "wdi-hw",
             "wdi-outcomes",
@@ -547,7 +547,7 @@
         "startTime": "17:38:30",
         "endDate": "2017-12-04",
         "endTime": "18:40:53",
-        "duraction": "01:02:23",
+        "duration": "01:02:23",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -559,7 +559,7 @@
         "startTime": "19:08:24",
         "endDate": "2017-12-04",
         "endTime": "20:34:46",
-        "duraction": "01:26:22",
+        "duration": "01:26:22",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -571,7 +571,7 @@
         "startTime": "08:45:13",
         "endDate": "2017-12-05",
         "endTime": "09:01:44",
-        "duraction": "00:16:31",
+        "duration": "00:16:31",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -583,7 +583,7 @@
         "startTime": "09:01:46",
         "endDate": "2017-12-05",
         "endTime": "09:53:13",
-        "duraction": "00:51:27",
+        "duration": "00:51:27",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -595,7 +595,7 @@
         "startTime": "10:01:20",
         "endDate": "2017-12-05",
         "endTime": "11:21:00",
-        "duraction": "01:19:40",
+        "duration": "01:19:40",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -607,7 +607,7 @@
         "startTime": "11:34:51",
         "endDate": "2017-12-05",
         "endTime": "12:28:03",
-        "duraction": "00:53:12",
+        "duration": "00:53:12",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -619,7 +619,7 @@
         "startTime": "13:09:23",
         "endDate": "2017-12-05",
         "endTime": "14:29:54",
-        "duraction": "01:20:31",
+        "duration": "01:20:31",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -631,7 +631,7 @@
         "startTime": "14:33:02",
         "endDate": "2017-12-05",
         "endTime": "15:21:32",
-        "duraction": "00:48:30",
+        "duration": "00:48:30",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -643,7 +643,7 @@
         "startTime": "15:31:22",
         "endDate": "2017-12-05",
         "endTime": "16:30:25",
-        "duraction": "00:59:03",
+        "duration": "00:59:03",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -655,7 +655,7 @@
         "startTime": "16:41:25",
         "endDate": "2017-12-05",
         "endTime": "16:59:30",
-        "duraction": "00:18:05",
+        "duration": "00:18:05",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -667,7 +667,7 @@
         "startTime": "08:42:55",
         "endDate": "2017-12-06",
         "endTime": "09:00:18",
-        "duraction": "00:17:23",
+        "duration": "00:17:23",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -679,7 +679,7 @@
         "startTime": "09:00:21",
         "endDate": "2017-12-06",
         "endTime": "09:42:36",
-        "duraction": "00:42:15",
+        "duration": "00:42:15",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -691,7 +691,7 @@
         "startTime": "09:59:59",
         "endDate": "2017-12-06",
         "endTime": "11:15:14",
-        "duraction": "01:15:15",
+        "duration": "01:15:15",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -703,7 +703,7 @@
         "startTime": "11:26:42",
         "endDate": "2017-12-06",
         "endTime": "12:37:20",
-        "duraction": "01:10:38",
+        "duration": "01:10:38",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -715,7 +715,7 @@
         "startTime": "13:31:23",
         "endDate": "2017-12-06",
         "endTime": "14:25:15",
-        "duraction": "00:53:52",
+        "duration": "00:53:52",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -727,7 +727,7 @@
         "startTime": "14:31:19",
         "endDate": "2017-12-06",
         "endTime": "16:31:45",
-        "duraction": "02:00:26",
+        "duration": "02:00:26",
         "tags": [
             "wdi-outcomes",
             "wdi-week-2"
@@ -739,7 +739,7 @@
         "startTime": "17:04:37",
         "endDate": "2017-12-06",
         "endTime": "19:15:25",
-        "duraction": "02:10:48",
+        "duration": "02:10:48",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -751,7 +751,7 @@
         "startTime": "20:02:25",
         "endDate": "2017-12-06",
         "endTime": "21:20:30",
-        "duraction": "01:18:05",
+        "duration": "01:18:05",
         "tags": [
             "wdi-hw",
             "wdi-week-2"
@@ -763,7 +763,7 @@
         "startTime": "07:47:58",
         "endDate": "2017-12-07",
         "endTime": "08:03:36",
-        "duraction": "00:15:38",
+        "duration": "00:15:38",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -776,7 +776,7 @@
         "startTime": "09:00:12",
         "endDate": "2017-12-07",
         "endTime": "10:05:52",
-        "duraction": "01:05:40",
+        "duration": "01:05:40",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -788,7 +788,7 @@
         "startTime": "10:18:25",
         "endDate": "2017-12-07",
         "endTime": "12:49:50",
-        "duraction": "02:31:25",
+        "duration": "02:31:25",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -801,7 +801,7 @@
         "startTime": "13:25:26",
         "endDate": "2017-12-07",
         "endTime": "16:29:43",
-        "duraction": "03:04:17",
+        "duration": "03:04:17",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -814,7 +814,7 @@
         "startTime": "16:29:45",
         "endDate": "2017-12-07",
         "endTime": "17:34:03",
-        "duraction": "01:04:18",
+        "duration": "01:04:18",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -827,7 +827,7 @@
         "startTime": "17:58:31",
         "endDate": "2017-12-07",
         "endTime": "19:46:17",
-        "duraction": "01:47:46",
+        "duration": "01:47:46",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -840,7 +840,7 @@
         "startTime": "20:50:34",
         "endDate": "2017-12-07",
         "endTime": "21:45:24",
-        "duraction": "00:54:50",
+        "duration": "00:54:50",
         "tags": [
             "wdi-bonus",
             "wdi-hw",
@@ -853,7 +853,7 @@
         "startTime": "09:01:27",
         "endDate": "2017-12-08",
         "endTime": "09:35:51",
-        "duraction": "00:34:24",
+        "duration": "00:34:24",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -865,7 +865,7 @@
         "startTime": "09:47:21",
         "endDate": "2017-12-08",
         "endTime": "10:35:54",
-        "duraction": "00:48:33",
+        "duration": "00:48:33",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -877,7 +877,7 @@
         "startTime": "10:48:03",
         "endDate": "2017-12-08",
         "endTime": "12:35:20",
-        "duraction": "01:47:17",
+        "duration": "01:47:17",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -889,7 +889,7 @@
         "startTime": "14:03:54",
         "endDate": "2017-12-08",
         "endTime": "14:29:17",
-        "duraction": "00:25:23",
+        "duration": "00:25:23",
         "tags": [
             "wdi-study",
             "wdi-week-2"
@@ -901,7 +901,7 @@
         "startTime": "14:29:26",
         "endDate": "2017-12-08",
         "endTime": "15:10:07",
-        "duraction": "00:40:41",
+        "duration": "00:40:41",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -913,7 +913,7 @@
         "startTime": "15:25:35",
         "endDate": "2017-12-08",
         "endTime": "16:29:26",
-        "duraction": "01:03:51",
+        "duration": "01:03:51",
         "tags": [
             "wdi-class",
             "wdi-week-2"
@@ -925,7 +925,7 @@
         "startTime": "16:38:25",
         "endDate": "2017-12-08",
         "endTime": "17:01:30",
-        "duraction": "00:23:05",
+        "duration": "00:23:05",
         "tags": [
             "wdi-squad-scrum",
             "wdi-week-2"
@@ -937,7 +937,7 @@
         "startTime": "08:47:17",
         "endDate": "2017-12-11",
         "endTime": "09:19:02",
-        "duraction": "00:31:45",
+        "duration": "00:31:45",
         "tags": [
             "wdi-class",
             "wdi-mvp",
@@ -951,7 +951,7 @@
         "startTime": "09:19:21",
         "endDate": "2017-12-11",
         "endTime": "12:28:22",
-        "duraction": "03:09:01",
+        "duration": "03:09:01",
         "tags": [
             "wdi-class",
             "wdi-mvp",
@@ -965,7 +965,7 @@
         "startTime": "13:00:19",
         "endDate": "2017-12-11",
         "endTime": "17:05:35",
-        "duraction": "04:05:16",
+        "duration": "04:05:16",
         "tags": [
             "wdi-class",
             "wdi-mvp",
@@ -979,7 +979,7 @@
         "startTime": "17:05:07",
         "endDate": "2017-12-11",
         "endTime": "21:11:57",
-        "duraction": "04:06:50",
+        "duration": "04:06:50",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -994,7 +994,7 @@
         "startTime": "09:00:54",
         "endDate": "2017-12-12",
         "endTime": "10:27:15",
-        "duraction": "01:26:21",
+        "duration": "01:26:21",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1009,7 +1009,7 @@
         "startTime": "10:55:40",
         "endDate": "2017-12-12",
         "endTime": "11:43:36",
-        "duraction": "00:47:56",
+        "duration": "00:47:56",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1024,7 +1024,7 @@
         "startTime": "11:52:48",
         "endDate": "2017-12-12",
         "endTime": "12:40:41",
-        "duraction": "00:47:53",
+        "duration": "00:47:53",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1039,7 +1039,7 @@
         "startTime": "12:40:51",
         "endDate": "2017-12-12",
         "endTime": "12:48:23",
-        "duraction": "00:07:32",
+        "duration": "00:07:32",
         "tags": [
             "wdi-helping",
             "wdi-week-3"
@@ -1051,7 +1051,7 @@
         "startTime": "12:48:24",
         "endDate": "2017-12-12",
         "endTime": "12:55:39",
-        "duraction": "00:07:15",
+        "duration": "00:07:15",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1066,7 +1066,7 @@
         "startTime": "14:29:10",
         "endDate": "2017-12-12",
         "endTime": "15:36:42",
-        "duraction": "01:07:32",
+        "duration": "01:07:32",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1081,7 +1081,7 @@
         "startTime": "15:44:20",
         "endDate": "2017-12-12",
         "endTime": "19:34:12",
-        "duraction": "03:49:52",
+        "duration": "03:49:52",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1096,7 +1096,7 @@
         "startTime": "20:00:05",
         "endDate": "2017-12-12",
         "endTime": "21:31:52",
-        "duraction": "01:31:47",
+        "duration": "01:31:47",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1110,7 +1110,7 @@
         "startTime": "10:21:12",
         "endDate": "2017-12-13",
         "endTime": "11:27:41",
-        "duraction": "01:06:29",
+        "duration": "01:06:29",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1124,7 +1124,7 @@
         "startTime": "11:45:17",
         "endDate": "2017-12-13",
         "endTime": "13:06:25",
-        "duraction": "01:21:08",
+        "duration": "01:21:08",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1138,7 +1138,7 @@
         "startTime": "13:51:47",
         "endDate": "2017-12-13",
         "endTime": "14:30:25",
-        "duraction": "00:38:38",
+        "duration": "00:38:38",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1152,7 +1152,7 @@
         "startTime": "14:32:57",
         "endDate": "2017-12-13",
         "endTime": "16:41:10",
-        "duraction": "02:08:13",
+        "duration": "02:08:13",
         "tags": [
             "wdi-outcomes",
             "wdi-week-3"
@@ -1164,7 +1164,7 @@
         "startTime": "17:45:32",
         "endDate": "2017-12-13",
         "endTime": "18:59:28",
-        "duraction": "01:13:56",
+        "duration": "01:13:56",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1178,7 +1178,7 @@
         "startTime": "10:10:34",
         "endDate": "2017-12-14",
         "endTime": "11:24:58",
-        "duraction": "01:14:24",
+        "duration": "01:14:24",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1192,7 +1192,7 @@
         "startTime": "11:25:01",
         "endDate": "2017-12-14",
         "endTime": "14:31:10",
-        "duraction": "03:06:09",
+        "duration": "03:06:09",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1206,7 +1206,7 @@
         "startTime": "14:31:12",
         "endDate": "2017-12-14",
         "endTime": "16:45:22",
-        "duraction": "02:14:10",
+        "duration": "02:14:10",
         "tags": [
             "wdi-project-1",
             "wdi-week-3"
@@ -1218,7 +1218,7 @@
         "startTime": "16:45:35",
         "endDate": "2017-12-14",
         "endTime": "17:11:06",
-        "duraction": "00:25:31",
+        "duration": "00:25:31",
         "tags": [
             "wdi-squad-scrum",
             "wdi-week-3"
@@ -1230,7 +1230,7 @@
         "startTime": "18:20:27",
         "endDate": "2017-12-14",
         "endTime": "18:57:49",
-        "duraction": "00:37:22",
+        "duration": "00:37:22",
         "tags": [
             "wdi-study",
             "wdi-week-3"
@@ -1242,7 +1242,7 @@
         "startTime": "09:01:08",
         "endDate": "2017-12-15",
         "endTime": "09:47:55",
-        "duraction": "00:46:47",
+        "duration": "00:46:47",
         "tags": [
             "wdi-class",
             "wdi-week-3"
@@ -1254,7 +1254,7 @@
         "startTime": "10:03:26",
         "endDate": "2017-12-15",
         "endTime": "10:58:07",
-        "duraction": "00:54:41",
+        "duration": "00:54:41",
         "tags": [
             "wdi-class",
             "wdi-week-3"
@@ -1266,7 +1266,7 @@
         "startTime": "11:08:26",
         "endDate": "2017-12-15",
         "endTime": "12:42:47",
-        "duraction": "01:34:21",
+        "duration": "01:34:21",
         "tags": [
             "wdi-class",
             "wdi-week-3"
@@ -1278,7 +1278,7 @@
         "startTime": "14:31:16",
         "endDate": "2017-12-15",
         "endTime": "15:39:49",
-        "duraction": "01:08:33",
+        "duration": "01:08:33",
         "tags": [
             "wdi-class",
             "wdi-week-3"
@@ -1290,7 +1290,7 @@
         "startTime": "15:50:27",
         "endDate": "2017-12-15",
         "endTime": "17:19:12",
-        "duraction": "01:28:45",
+        "duration": "01:28:45",
         "tags": [
             "wdi-class",
             "wdi-week-3"
@@ -1302,7 +1302,7 @@
         "startTime": "12:07:31",
         "endDate": "2017-12-16",
         "endTime": "17:07:50",
-        "duraction": "05:00:19",
+        "duration": "05:00:19",
         "tags": [
             "wdi-helping",
             "wdi-week-3"
@@ -1314,7 +1314,7 @@
         "startTime": "09:00:24",
         "endDate": "2017-12-18",
         "endTime": "10:13:27",
-        "duraction": "01:13:03",
+        "duration": "01:13:03",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1326,7 +1326,7 @@
         "startTime": "10:24:47",
         "endDate": "2017-12-18",
         "endTime": "10:51:02",
-        "duraction": "00:26:15",
+        "duration": "00:26:15",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1338,7 +1338,7 @@
         "startTime": "10:56:08",
         "endDate": "2017-12-18",
         "endTime": "12:28:35",
-        "duraction": "01:32:27",
+        "duration": "01:32:27",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1350,7 +1350,7 @@
         "startTime": "13:25:37",
         "endDate": "2017-12-18",
         "endTime": "13:41:00",
-        "duraction": "00:15:23",
+        "duration": "00:15:23",
         "tags": [
             "wdi-hw",
             "wdi-outcomes",
@@ -1363,7 +1363,7 @@
         "startTime": "14:31:21",
         "endDate": "2017-12-18",
         "endTime": "17:03:17",
-        "duraction": "02:31:56",
+        "duration": "02:31:56",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1375,7 +1375,7 @@
         "startTime": "18:06:07",
         "endDate": "2017-12-18",
         "endTime": "18:23:55",
-        "duraction": "00:17:48",
+        "duration": "00:17:48",
         "tags": [
             "wdi-bonus",
             "wdi-class",
@@ -1388,7 +1388,7 @@
         "startTime": "18:30:45",
         "endDate": "2017-12-18",
         "endTime": "19:54:30",
-        "duraction": "01:23:45",
+        "duration": "01:23:45",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1401,7 +1401,7 @@
         "startTime": "09:03:16",
         "endDate": "2017-12-19",
         "endTime": "09:55:44",
-        "duraction": "00:52:28",
+        "duration": "00:52:28",
         "tags": [
             "wdi-class",
             "wdi-project-1",
@@ -1414,7 +1414,7 @@
         "startTime": "10:07:07",
         "endDate": "2017-12-19",
         "endTime": "10:40:19",
-        "duraction": "00:33:12",
+        "duration": "00:33:12",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1426,7 +1426,7 @@
         "startTime": "10:50:45",
         "endDate": "2017-12-19",
         "endTime": "11:35:31",
-        "duraction": "00:44:46",
+        "duration": "00:44:46",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1438,7 +1438,7 @@
         "startTime": "11:45:33",
         "endDate": "2017-12-19",
         "endTime": "12:18:56",
-        "duraction": "00:33:23",
+        "duration": "00:33:23",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1450,7 +1450,7 @@
         "startTime": "13:25:20",
         "endDate": "2017-12-19",
         "endTime": "14:03:40",
-        "duraction": "00:38:20",
+        "duration": "00:38:20",
         "tags": [
             "wdi-bonus",
             "wdi-hw",
@@ -1463,7 +1463,7 @@
         "startTime": "14:32:22",
         "endDate": "2017-12-19",
         "endTime": "15:18:40",
-        "duraction": "00:46:18",
+        "duration": "00:46:18",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1475,7 +1475,7 @@
         "startTime": "15:29:56",
         "endDate": "2017-12-19",
         "endTime": "16:35:15",
-        "duraction": "01:05:19",
+        "duration": "01:05:19",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1487,7 +1487,7 @@
         "startTime": "09:00:00",
         "endDate": "2017-12-20",
         "endTime": "09:37:40",
-        "duraction": "00:37:40",
+        "duration": "00:37:40",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1499,7 +1499,7 @@
         "startTime": "10:37:46",
         "endDate": "2017-12-20",
         "endTime": "12:24:11",
-        "duraction": "01:46:25",
+        "duration": "01:46:25",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1512,7 +1512,7 @@
         "startTime": "13:12:27",
         "endDate": "2017-12-20",
         "endTime": "14:28:55",
-        "duraction": "01:16:28",
+        "duration": "01:16:28",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1525,7 +1525,7 @@
         "startTime": "14:32:22",
         "endDate": "2017-12-20",
         "endTime": "16:27:03",
-        "duraction": "01:54:41",
+        "duration": "01:54:41",
         "tags": [
             "wdi-class",
             "wdi-outcomes",
@@ -1538,7 +1538,7 @@
         "startTime": "17:36:44",
         "endDate": "2017-12-20",
         "endTime": "18:57:05",
-        "duraction": "01:20:21",
+        "duration": "01:20:21",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1551,7 +1551,7 @@
         "startTime": "19:57:28",
         "endDate": "2017-12-20",
         "endTime": "20:41:08",
-        "duraction": "00:43:40",
+        "duration": "00:43:40",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1564,7 +1564,7 @@
         "startTime": "09:01:40",
         "endDate": "2017-12-21",
         "endTime": "09:56:49",
-        "duraction": "00:55:09",
+        "duration": "00:55:09",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1576,7 +1576,7 @@
         "startTime": "10:14:03",
         "endDate": "2017-12-21",
         "endTime": "12:16:04",
-        "duraction": "02:02:01",
+        "duration": "02:02:01",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1589,7 +1589,7 @@
         "startTime": "12:35:38",
         "endDate": "2017-12-21",
         "endTime": "13:01:46",
-        "duraction": "00:26:08",
+        "duration": "00:26:08",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -1602,7 +1602,7 @@
         "startTime": "14:37:09",
         "endDate": "2017-12-21",
         "endTime": "15:35:51",
-        "duraction": "00:58:42",
+        "duration": "00:58:42",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1614,7 +1614,7 @@
         "startTime": "15:46:27",
         "endDate": "2017-12-21",
         "endTime": "16:20:27",
-        "duraction": "00:34:00",
+        "duration": "00:34:00",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1626,7 +1626,7 @@
         "startTime": "16:25:43",
         "endDate": "2017-12-21",
         "endTime": "17:07:50",
-        "duraction": "00:42:07",
+        "duration": "00:42:07",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1638,7 +1638,7 @@
         "startTime": "17:30:49",
         "endDate": "2017-12-21",
         "endTime": "19:52:16",
-        "duraction": "02:21:27",
+        "duration": "02:21:27",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -1651,7 +1651,7 @@
         "startTime": "09:02:09",
         "endDate": "2017-12-22",
         "endTime": "09:49:59",
-        "duraction": "00:47:50",
+        "duration": "00:47:50",
         "tags": [
             "wdi-class",
             "wdi-week-4"
@@ -1663,7 +1663,7 @@
         "startTime": "10:15:27",
         "endDate": "2017-12-22",
         "endTime": "12:27:36",
-        "duraction": "02:12:09",
+        "duration": "02:12:09",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1676,7 +1676,7 @@
         "startTime": "13:35:07",
         "endDate": "2017-12-22",
         "endTime": "15:05:18",
-        "duraction": "01:30:11",
+        "duration": "01:30:11",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1689,7 +1689,7 @@
         "startTime": "11:22:31",
         "endDate": "2017-12-29",
         "endTime": "12:01:16",
-        "duraction": "00:38:45",
+        "duration": "00:38:45",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1702,7 +1702,7 @@
         "startTime": "16:20:46",
         "endDate": "2017-12-29",
         "endTime": "17:28:44",
-        "duraction": "01:07:58",
+        "duration": "01:07:58",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1715,7 +1715,7 @@
         "startTime": "18:01:49",
         "endDate": "2017-12-29",
         "endTime": "18:43:21",
-        "duraction": "00:41:32",
+        "duration": "00:41:32",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1728,7 +1728,7 @@
         "startTime": "18:52:31",
         "endDate": "2017-12-29",
         "endTime": "19:51:26",
-        "duraction": "00:58:55",
+        "duration": "00:58:55",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1741,7 +1741,7 @@
         "startTime": "19:57:48",
         "endDate": "2017-12-29",
         "endTime": "20:10:11",
-        "duraction": "00:12:23",
+        "duration": "00:12:23",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1754,7 +1754,7 @@
         "startTime": "14:31:56",
         "endDate": "2017-12-30",
         "endTime": "15:07:03",
-        "duraction": "00:35:07",
+        "duration": "00:35:07",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1767,7 +1767,7 @@
         "startTime": "15:09:13",
         "endDate": "2017-12-30",
         "endTime": "15:45:11",
-        "duraction": "00:35:58",
+        "duration": "00:35:58",
         "tags": [
             "practice"
         ]
@@ -1778,7 +1778,7 @@
         "startTime": "14:12:11",
         "endDate": "2017-12-31",
         "endTime": "14:25:26",
-        "duraction": "00:13:15",
+        "duration": "00:13:15",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1791,7 +1791,7 @@
         "startTime": "16:04:48",
         "endDate": "2017-12-31",
         "endTime": "16:27:20",
-        "duraction": "00:22:32",
+        "duration": "00:22:32",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1804,7 +1804,7 @@
         "startTime": "17:01:16",
         "endDate": "2017-12-31",
         "endTime": "18:28:18",
-        "duraction": "01:27:02",
+        "duration": "01:27:02",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1817,7 +1817,7 @@
         "startTime": "18:33:58",
         "endDate": "2017-12-31",
         "endTime": "19:01:49",
-        "duraction": "00:27:51",
+        "duration": "00:27:51",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -1830,7 +1830,7 @@
         "startTime": "09:00:38",
         "endDate": "2018-01-02",
         "endTime": "09:43:37",
-        "duraction": "00:42:59",
+        "duration": "00:42:59",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -1842,7 +1842,7 @@
         "startTime": "10:02:15",
         "endDate": "2018-01-02",
         "endTime": "12:04:43",
-        "duraction": "02:02:28",
+        "duration": "02:02:28",
         "tags": [
             "wdi-lab",
             "wdi-week-5"
@@ -1854,7 +1854,7 @@
         "startTime": "13:37:17",
         "endDate": "2018-01-02",
         "endTime": "14:25:07",
-        "duraction": "00:47:50",
+        "duration": "00:47:50",
         "tags": [
             "wdi-hw",
             "wdi-outcomes",
@@ -1867,7 +1867,7 @@
         "startTime": "14:30:08",
         "endDate": "2018-01-02",
         "endTime": "15:09:10",
-        "duraction": "00:39:02",
+        "duration": "00:39:02",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -1879,7 +1879,7 @@
         "startTime": "15:15:51",
         "endDate": "2018-01-02",
         "endTime": "16:52:23",
-        "duraction": "01:36:32",
+        "duration": "01:36:32",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -1891,7 +1891,7 @@
         "startTime": "09:02:21",
         "endDate": "2018-01-03",
         "endTime": "09:55:48",
-        "duraction": "00:53:27",
+        "duration": "00:53:27",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -1903,7 +1903,7 @@
         "startTime": "10:00:08",
         "endDate": "2018-01-03",
         "endTime": "12:09:06",
-        "duraction": "02:08:58",
+        "duration": "02:08:58",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -1916,7 +1916,7 @@
         "startTime": "12:09:07",
         "endDate": "2018-01-03",
         "endTime": "12:29:05",
-        "duraction": "00:19:58",
+        "duration": "00:19:58",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -1929,7 +1929,7 @@
         "startTime": "13:50:56",
         "endDate": "2018-01-03",
         "endTime": "14:21:15",
-        "duraction": "00:30:19",
+        "duration": "00:30:19",
         "tags": [
             "wdi-study",
             "wdi-week-5"
@@ -1941,7 +1941,7 @@
         "startTime": "14:34:27",
         "endDate": "2018-01-03",
         "endTime": "15:53:51",
-        "duraction": "01:19:24",
+        "duration": "01:19:24",
         "tags": [
             "wdi-outcomes",
             "wdi-week-5"
@@ -1953,7 +1953,7 @@
         "startTime": "15:53:52",
         "endDate": "2018-01-03",
         "endTime": "17:02:52",
-        "duraction": "01:09:00",
+        "duration": "01:09:00",
         "tags": [
             "wdi-hw",
             "wdi-outcomes",
@@ -1966,7 +1966,7 @@
         "startTime": "17:49:45",
         "endDate": "2018-01-03",
         "endTime": "19:30:37",
-        "duraction": "01:40:52",
+        "duration": "01:40:52",
         "tags": [
             "wdi-study",
             "wdi-week-5"
@@ -1978,7 +1978,7 @@
         "startTime": "09:01:14",
         "endDate": "2018-01-05",
         "endTime": "09:52:06",
-        "duraction": "00:50:52",
+        "duration": "00:50:52",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -1990,7 +1990,7 @@
         "startTime": "10:04:43",
         "endDate": "2018-01-05",
         "endTime": "11:06:01",
-        "duraction": "01:01:18",
+        "duration": "01:01:18",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -2002,7 +2002,7 @@
         "startTime": "11:20:24",
         "endDate": "2018-01-05",
         "endTime": "12:41:43",
-        "duraction": "01:21:19",
+        "duration": "01:21:19",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -2014,7 +2014,7 @@
         "startTime": "14:00:31",
         "endDate": "2018-01-05",
         "endTime": "14:35:45",
-        "duraction": "00:35:14",
+        "duration": "00:35:14",
         "tags": [
             "wdi-squad-scrum",
             "wdi-week-5"
@@ -2026,7 +2026,7 @@
         "startTime": "14:44:24",
         "endDate": "2018-01-05",
         "endTime": "16:57:54",
-        "duraction": "02:13:30",
+        "duration": "02:13:30",
         "tags": [
             "wdi-class",
             "wdi-week-5"
@@ -2038,7 +2038,7 @@
         "startTime": "10:03:34",
         "endDate": "2018-01-06",
         "endTime": "11:12:28",
-        "duraction": "01:08:54",
+        "duration": "01:08:54",
         "tags": [
             "GA-Workshop",
             "study"
@@ -2050,7 +2050,7 @@
         "startTime": "11:18:24",
         "endDate": "2018-01-06",
         "endTime": "12:15:44",
-        "duraction": "00:57:20",
+        "duration": "00:57:20",
         "tags": [
             "GA-Workshop",
             "study"
@@ -2062,7 +2062,7 @@
         "startTime": "13:18:09",
         "endDate": "2018-01-06",
         "endTime": "17:11:24",
-        "duraction": "03:53:15",
+        "duration": "03:53:15",
         "tags": [
             "GA-Workshop",
             "study"
@@ -2074,7 +2074,7 @@
         "startTime": "15:39:22",
         "endDate": "2018-01-07",
         "endTime": "17:57:44",
-        "duraction": "02:18:22",
+        "duration": "02:18:22",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2087,7 +2087,7 @@
         "startTime": "18:14:12",
         "endDate": "2018-01-07",
         "endTime": "18:48:15",
-        "duraction": "00:34:03",
+        "duration": "00:34:03",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2100,7 +2100,7 @@
         "startTime": "22:31:02",
         "endDate": "2018-01-07",
         "endTime": "23:22:28",
-        "duraction": "00:51:26",
+        "duration": "00:51:26",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2113,7 +2113,7 @@
         "startTime": "09:01:36",
         "endDate": "2018-01-08",
         "endTime": "09:22:43",
-        "duraction": "00:21:07",
+        "duration": "00:21:07",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2126,7 +2126,7 @@
         "startTime": "09:28:01",
         "endDate": "2018-01-08",
         "endTime": "09:38:08",
-        "duraction": "00:10:07",
+        "duration": "00:10:07",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2139,7 +2139,7 @@
         "startTime": "09:40:55",
         "endDate": "2018-01-08",
         "endTime": "10:23:46",
-        "duraction": "00:42:51",
+        "duration": "00:42:51",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2152,7 +2152,7 @@
         "startTime": "10:35:52",
         "endDate": "2018-01-08",
         "endTime": "12:33:03",
-        "duraction": "01:57:11",
+        "duration": "01:57:11",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2165,7 +2165,7 @@
         "startTime": "12:33:06",
         "endDate": "2018-01-08",
         "endTime": "12:36:35",
-        "duraction": "00:03:29",
+        "duration": "00:03:29",
         "tags": [
             "sundries"
         ]
@@ -2176,7 +2176,7 @@
         "startTime": "21:50:49",
         "endDate": "2018-01-08",
         "endTime": "22:38:39",
-        "duraction": "00:47:50",
+        "duration": "00:47:50",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2189,7 +2189,7 @@
         "startTime": "08:59:28",
         "endDate": "2018-01-09",
         "endTime": "10:52:58",
-        "duraction": "01:53:30",
+        "duration": "01:53:30",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2202,7 +2202,7 @@
         "startTime": "11:16:23",
         "endDate": "2018-01-09",
         "endTime": "11:55:19",
-        "duraction": "00:38:56",
+        "duration": "00:38:56",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2215,7 +2215,7 @@
         "startTime": "12:00:38",
         "endDate": "2018-01-09",
         "endTime": "12:25:02",
-        "duraction": "00:24:24",
+        "duration": "00:24:24",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2228,7 +2228,7 @@
         "startTime": "13:45:03",
         "endDate": "2018-01-09",
         "endTime": "16:21:09",
-        "duraction": "02:36:06",
+        "duration": "02:36:06",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2241,7 +2241,7 @@
         "startTime": "17:40:54",
         "endDate": "2018-01-09",
         "endTime": "18:12:18",
-        "duraction": "00:31:24",
+        "duration": "00:31:24",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2254,7 +2254,7 @@
         "startTime": "18:52:35",
         "endDate": "2018-01-09",
         "endTime": "19:37:22",
-        "duraction": "00:44:47",
+        "duration": "00:44:47",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2267,7 +2267,7 @@
         "startTime": "19:37:31",
         "endDate": "2018-01-09",
         "endTime": "20:03:12",
-        "duraction": "00:25:41",
+        "duration": "00:25:41",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2280,7 +2280,7 @@
         "startTime": "08:35:36",
         "endDate": "2018-01-10",
         "endTime": "10:19:18",
-        "duraction": "01:43:42",
+        "duration": "01:43:42",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2293,7 +2293,7 @@
         "startTime": "10:42:52",
         "endDate": "2018-01-10",
         "endTime": "11:14:24",
-        "duraction": "00:31:32",
+        "duration": "00:31:32",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2306,7 +2306,7 @@
         "startTime": "11:19:35",
         "endDate": "2018-01-10",
         "endTime": "12:13:58",
-        "duraction": "00:54:23",
+        "duration": "00:54:23",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2319,7 +2319,7 @@
         "startTime": "13:08:08",
         "endDate": "2018-01-10",
         "endTime": "14:28:51",
-        "duraction": "01:20:43",
+        "duration": "01:20:43",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2332,7 +2332,7 @@
         "startTime": "14:30:09",
         "endDate": "2018-01-10",
         "endTime": "16:46:40",
-        "duraction": "02:16:31",
+        "duration": "02:16:31",
         "tags": [
             "wdi-outcomes",
             "wdi-week-6"
@@ -2344,7 +2344,7 @@
         "startTime": "17:16:58",
         "endDate": "2018-01-10",
         "endTime": "17:33:36",
-        "duraction": "00:16:38",
+        "duration": "00:16:38",
         "tags": [
             "wdi-outcomes",
             "wdi-week-6"
@@ -2356,7 +2356,7 @@
         "startTime": "17:50:24",
         "endDate": "2018-01-10",
         "endTime": "18:25:05",
-        "duraction": "00:34:41",
+        "duration": "00:34:41",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2369,7 +2369,7 @@
         "startTime": "18:30:28",
         "endDate": "2018-01-10",
         "endTime": "21:20:23",
-        "duraction": "02:49:55",
+        "duration": "02:49:55",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2382,7 +2382,7 @@
         "startTime": "21:54:41",
         "endDate": "2018-01-10",
         "endTime": "22:24:54",
-        "duraction": "00:30:13",
+        "duration": "00:30:13",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2395,7 +2395,7 @@
         "startTime": "23:43:05",
         "endDate": "2018-01-11",
         "endTime": "00:50:27",
-        "duraction": "01:07:22",
+        "duration": "01:07:22",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2408,7 +2408,7 @@
         "startTime": "09:59:44",
         "endDate": "2018-01-11",
         "endTime": "11:10:20",
-        "duraction": "01:10:36",
+        "duration": "01:10:36",
         "tags": [
             "wdi-bonus",
             "wdi-project-2",
@@ -2421,7 +2421,7 @@
         "startTime": "11:20:37",
         "endDate": "2018-01-11",
         "endTime": "11:56:26",
-        "duraction": "00:35:49",
+        "duration": "00:35:49",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2434,7 +2434,7 @@
         "startTime": "12:02:14",
         "endDate": "2018-01-11",
         "endTime": "12:26:31",
-        "duraction": "00:24:17",
+        "duration": "00:24:17",
         "tags": [
             "wdi-mvp",
             "wdi-project-2",
@@ -2447,7 +2447,7 @@
         "startTime": "12:45:42",
         "endDate": "2018-01-11",
         "endTime": "14:24:04",
-        "duraction": "01:38:22",
+        "duration": "01:38:22",
         "tags": [
             "sundries"
         ]
@@ -2458,7 +2458,7 @@
         "startTime": "14:34:48",
         "endDate": "2018-01-11",
         "endTime": "15:18:51",
-        "duraction": "00:44:03",
+        "duration": "00:44:03",
         "tags": [
             "wdi-class",
             "wdi-project-2",
@@ -2471,7 +2471,7 @@
         "startTime": "15:34:30",
         "endDate": "2018-01-11",
         "endTime": "16:00:09",
-        "duraction": "00:25:39",
+        "duration": "00:25:39",
         "tags": [
             "wdi-class",
             "wdi-project-2",
@@ -2484,7 +2484,7 @@
         "startTime": "16:00:18",
         "endDate": "2018-01-11",
         "endTime": "16:34:44",
-        "duraction": "00:34:26",
+        "duration": "00:34:26",
         "tags": [
             "wdi-class",
             "wdi-squad-scrum",
@@ -2497,7 +2497,7 @@
         "startTime": "09:12:21",
         "endDate": "2018-01-12",
         "endTime": "09:53:49",
-        "duraction": "00:41:28",
+        "duration": "00:41:28",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2509,7 +2509,7 @@
         "startTime": "10:06:15",
         "endDate": "2018-01-12",
         "endTime": "11:06:29",
-        "duraction": "01:00:14",
+        "duration": "01:00:14",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2521,7 +2521,7 @@
         "startTime": "11:18:34",
         "endDate": "2018-01-12",
         "endTime": "12:38:25",
-        "duraction": "01:19:51",
+        "duration": "01:19:51",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2533,7 +2533,7 @@
         "startTime": "14:30:49",
         "endDate": "2018-01-12",
         "endTime": "15:04:55",
-        "duraction": "00:34:06",
+        "duration": "00:34:06",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2545,7 +2545,7 @@
         "startTime": "15:10:55",
         "endDate": "2018-01-12",
         "endTime": "16:04:36",
-        "duraction": "00:53:41",
+        "duration": "00:53:41",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2557,7 +2557,7 @@
         "startTime": "16:15:31",
         "endDate": "2018-01-12",
         "endTime": "17:04:51",
-        "duraction": "00:49:20",
+        "duration": "00:49:20",
         "tags": [
             "wdi-class",
             "wdi-week-6"
@@ -2569,7 +2569,7 @@
         "startTime": "09:25:52",
         "endDate": "2018-01-14",
         "endTime": "13:03:15",
-        "duraction": "03:37:23",
+        "duration": "03:37:23",
         "tags": [
             "lego"
         ]
@@ -2580,7 +2580,7 @@
         "startTime": "08:59:49",
         "endDate": "2018-01-16",
         "endTime": "09:55:46",
-        "duraction": "00:55:57",
+        "duration": "00:55:57",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2592,7 +2592,7 @@
         "startTime": "10:05:51",
         "endDate": "2018-01-16",
         "endTime": "11:21:07",
-        "duraction": "01:15:16",
+        "duration": "01:15:16",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2604,7 +2604,7 @@
         "startTime": "11:25:33",
         "endDate": "2018-01-16",
         "endTime": "11:47:36",
-        "duraction": "00:22:03",
+        "duration": "00:22:03",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2616,7 +2616,7 @@
         "startTime": "11:57:53",
         "endDate": "2018-01-16",
         "endTime": "12:29:17",
-        "duraction": "00:31:24",
+        "duration": "00:31:24",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2628,7 +2628,7 @@
         "startTime": "13:33:18",
         "endDate": "2018-01-16",
         "endTime": "14:13:02",
-        "duraction": "00:39:44",
+        "duration": "00:39:44",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -2641,7 +2641,7 @@
         "startTime": "14:30:44",
         "endDate": "2018-01-16",
         "endTime": "17:03:39",
-        "duraction": "02:32:55",
+        "duration": "02:32:55",
         "tags": [
             "wdi-class",
             "wdi-lab",
@@ -2655,7 +2655,7 @@
         "startTime": "09:02:38",
         "endDate": "2018-01-17",
         "endTime": "09:50:44",
-        "duraction": "00:48:06",
+        "duration": "00:48:06",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2667,7 +2667,7 @@
         "startTime": "10:08:03",
         "endDate": "2018-01-17",
         "endTime": "10:49:26",
-        "duraction": "00:41:23",
+        "duration": "00:41:23",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2679,7 +2679,7 @@
         "startTime": "11:04:09",
         "endDate": "2018-01-17",
         "endTime": "12:39:01",
-        "duraction": "01:34:52",
+        "duration": "01:34:52",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2691,7 +2691,7 @@
         "startTime": "14:33:37",
         "endDate": "2018-01-17",
         "endTime": "17:11:53",
-        "duraction": "02:38:16",
+        "duration": "02:38:16",
         "tags": [
             "wdi-outcomes",
             "wdi-week-7"
@@ -2703,7 +2703,7 @@
         "startTime": "17:56:45",
         "endDate": "2018-01-17",
         "endTime": "19:38:56",
-        "duraction": "01:42:11",
+        "duration": "01:42:11",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -2716,7 +2716,7 @@
         "startTime": "19:59:15",
         "endDate": "2018-01-17",
         "endTime": "21:30:17",
-        "duraction": "01:31:02",
+        "duration": "01:31:02",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -2729,7 +2729,7 @@
         "startTime": "09:01:44",
         "endDate": "2018-01-18",
         "endTime": "09:43:21",
-        "duraction": "00:41:37",
+        "duration": "00:41:37",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2741,7 +2741,7 @@
         "startTime": "10:06:15",
         "endDate": "2018-01-18",
         "endTime": "11:21:29",
-        "duraction": "01:15:14",
+        "duration": "01:15:14",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2753,7 +2753,7 @@
         "startTime": "11:34:14",
         "endDate": "2018-01-18",
         "endTime": "12:11:06",
-        "duraction": "00:36:52",
+        "duration": "00:36:52",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2765,7 +2765,7 @@
         "startTime": "12:21:55",
         "endDate": "2018-01-18",
         "endTime": "12:40:07",
-        "duraction": "00:18:12",
+        "duration": "00:18:12",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2777,7 +2777,7 @@
         "startTime": "13:25:52",
         "endDate": "2018-01-18",
         "endTime": "14:28:37",
-        "duraction": "01:02:45",
+        "duration": "01:02:45",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -2790,7 +2790,7 @@
         "startTime": "14:34:59",
         "endDate": "2018-01-18",
         "endTime": "18:15:10",
-        "duraction": "03:40:11",
+        "duration": "03:40:11",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2803,7 +2803,7 @@
         "startTime": "18:35:10",
         "endDate": "2018-01-18",
         "endTime": "19:49:38",
-        "duraction": "01:14:28",
+        "duration": "01:14:28",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -2816,7 +2816,7 @@
         "startTime": "09:03:51",
         "endDate": "2018-01-19",
         "endTime": "10:31:49",
-        "duraction": "01:27:58",
+        "duration": "01:27:58",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2829,7 +2829,7 @@
         "startTime": "10:32:40",
         "endDate": "2018-01-19",
         "endTime": "12:33:58",
-        "duraction": "02:01:18",
+        "duration": "02:01:18",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -2842,7 +2842,7 @@
         "startTime": "14:34:18",
         "endDate": "2018-01-19",
         "endTime": "15:19:06",
-        "duraction": "00:44:48",
+        "duration": "00:44:48",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2854,7 +2854,7 @@
         "startTime": "15:31:23",
         "endDate": "2018-01-19",
         "endTime": "16:17:46",
-        "duraction": "00:46:23",
+        "duration": "00:46:23",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2866,7 +2866,7 @@
         "startTime": "16:27:31",
         "endDate": "2018-01-19",
         "endTime": "17:09:25",
-        "duraction": "00:41:54",
+        "duration": "00:41:54",
         "tags": [
             "wdi-class",
             "wdi-week-7"
@@ -2878,7 +2878,7 @@
         "startTime": "09:03:16",
         "endDate": "2018-01-22",
         "endTime": "09:52:10",
-        "duraction": "00:48:54",
+        "duration": "00:48:54",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -2890,7 +2890,7 @@
         "startTime": "10:01:38",
         "endDate": "2018-01-22",
         "endTime": "11:00:36",
-        "duraction": "00:58:58",
+        "duration": "00:58:58",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -2902,7 +2902,7 @@
         "startTime": "11:11:23",
         "endDate": "2018-01-22",
         "endTime": "11:50:01",
-        "duraction": "00:38:38",
+        "duration": "00:38:38",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -2914,7 +2914,7 @@
         "startTime": "12:00:23",
         "endDate": "2018-01-22",
         "endTime": "12:28:22",
-        "duraction": "00:27:59",
+        "duration": "00:27:59",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -2926,7 +2926,7 @@
         "startTime": "14:31:55",
         "endDate": "2018-01-22",
         "endTime": "18:02:06",
-        "duraction": "03:30:11",
+        "duration": "03:30:11",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2939,7 +2939,7 @@
         "startTime": "19:58:59",
         "endDate": "2018-01-22",
         "endTime": "21:07:32",
-        "duraction": "01:08:33",
+        "duration": "01:08:33",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2952,7 +2952,7 @@
         "startTime": "22:10:58",
         "endDate": "2018-01-22",
         "endTime": "23:20:03",
-        "duraction": "01:09:05",
+        "duration": "01:09:05",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2965,7 +2965,7 @@
         "startTime": "09:01:56",
         "endDate": "2018-01-23",
         "endTime": "10:57:21",
-        "duraction": "01:55:25",
+        "duration": "01:55:25",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -2977,7 +2977,7 @@
         "startTime": "11:34:31",
         "endDate": "2018-01-23",
         "endTime": "12:56:31",
-        "duraction": "01:22:00",
+        "duration": "01:22:00",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -2990,7 +2990,7 @@
         "startTime": "13:21:07",
         "endDate": "2018-01-23",
         "endTime": "15:56:22",
-        "duraction": "02:35:15",
+        "duration": "02:35:15",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3003,7 +3003,7 @@
         "startTime": "16:10:35",
         "endDate": "2018-01-23",
         "endTime": "17:10:43",
-        "duraction": "01:00:08",
+        "duration": "01:00:08",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -3016,7 +3016,7 @@
         "startTime": "09:00:35",
         "endDate": "2018-01-24",
         "endTime": "09:50:59",
-        "duraction": "00:50:24",
+        "duration": "00:50:24",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3028,7 +3028,7 @@
         "startTime": "10:04:35",
         "endDate": "2018-01-24",
         "endTime": "11:00:06",
-        "duraction": "00:55:31",
+        "duration": "00:55:31",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3040,7 +3040,7 @@
         "startTime": "11:07:33",
         "endDate": "2018-01-24",
         "endTime": "12:35:26",
-        "duraction": "01:27:53",
+        "duration": "01:27:53",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3052,7 +3052,7 @@
         "startTime": "14:30:23",
         "endDate": "2018-01-24",
         "endTime": "16:40:43",
-        "duraction": "02:10:20",
+        "duration": "02:10:20",
         "tags": [
             "wdi-class",
             "wdi-outcomes",
@@ -3065,7 +3065,7 @@
         "startTime": "08:53:45",
         "endDate": "2018-01-25",
         "endTime": "09:43:07",
-        "duraction": "00:49:22",
+        "duration": "00:49:22",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3077,7 +3077,7 @@
         "startTime": "10:02:19",
         "endDate": "2018-01-25",
         "endTime": "11:01:01",
-        "duraction": "00:58:42",
+        "duration": "00:58:42",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3089,7 +3089,7 @@
         "startTime": "11:09:58",
         "endDate": "2018-01-25",
         "endTime": "12:04:19",
-        "duraction": "00:54:21",
+        "duration": "00:54:21",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3101,7 +3101,7 @@
         "startTime": "14:34:11",
         "endDate": "2018-01-25",
         "endTime": "15:57:56",
-        "duraction": "01:23:45",
+        "duration": "01:23:45",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3113,7 +3113,7 @@
         "startTime": "16:09:05",
         "endDate": "2018-01-25",
         "endTime": "17:04:46",
-        "duraction": "00:55:41",
+        "duration": "00:55:41",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3125,7 +3125,7 @@
         "startTime": "09:01:27",
         "endDate": "2018-01-26",
         "endTime": "09:55:08",
-        "duraction": "00:53:41",
+        "duration": "00:53:41",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3137,7 +3137,7 @@
         "startTime": "10:02:46",
         "endDate": "2018-01-26",
         "endTime": "11:28:08",
-        "duraction": "01:25:22",
+        "duration": "01:25:22",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3149,7 +3149,7 @@
         "startTime": "11:40:12",
         "endDate": "2018-01-26",
         "endTime": "12:30:47",
-        "duraction": "00:50:35",
+        "duration": "00:50:35",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3161,7 +3161,7 @@
         "startTime": "14:29:33",
         "endDate": "2018-01-26",
         "endTime": "16:32:57",
-        "duraction": "02:03:24",
+        "duration": "02:03:24",
         "tags": [
             "wdi-class",
             "wdi-week-8"
@@ -3173,7 +3173,7 @@
         "startTime": "16:35:18",
         "endDate": "2018-01-26",
         "endTime": "17:17:24",
-        "duraction": "00:42:06",
+        "duration": "00:42:06",
         "tags": [
             "wdi-squad-scrum",
             "wdi-week-8"
@@ -3185,7 +3185,7 @@
         "startTime": "18:49:51",
         "endDate": "2018-01-28",
         "endTime": "19:05:29",
-        "duraction": "00:15:38",
+        "duration": "00:15:38",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3198,7 +3198,7 @@
         "startTime": "22:01:47",
         "endDate": "2018-01-28",
         "endTime": "23:11:57",
-        "duraction": "01:10:10",
+        "duration": "01:10:10",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3211,7 +3211,7 @@
         "startTime": "09:05:06",
         "endDate": "2018-01-29",
         "endTime": "12:19:30",
-        "duraction": "03:14:24",
+        "duration": "03:14:24",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3224,7 +3224,7 @@
         "startTime": "14:26:38",
         "endDate": "2018-01-29",
         "endTime": "17:13:03",
-        "duraction": "02:46:25",
+        "duration": "02:46:25",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3237,7 +3237,7 @@
         "startTime": "17:20:49",
         "endDate": "2018-01-29",
         "endTime": "18:00:23",
-        "duraction": "00:39:34",
+        "duration": "00:39:34",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3250,7 +3250,7 @@
         "startTime": "21:50:20",
         "endDate": "2018-01-29",
         "endTime": "22:34:39",
-        "duraction": "00:44:19",
+        "duration": "00:44:19",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3263,7 +3263,7 @@
         "startTime": "09:10:38",
         "endDate": "2018-01-30",
         "endTime": "10:15:51",
-        "duraction": "01:05:13",
+        "duration": "01:05:13",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3276,7 +3276,7 @@
         "startTime": "10:23:31",
         "endDate": "2018-01-30",
         "endTime": "13:06:24",
-        "duraction": "02:42:53",
+        "duration": "02:42:53",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3289,7 +3289,7 @@
         "startTime": "14:14:15",
         "endDate": "2018-01-30",
         "endTime": "17:42:57",
-        "duraction": "03:28:42",
+        "duration": "03:28:42",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3302,7 +3302,7 @@
         "startTime": "19:00:44",
         "endDate": "2018-01-30",
         "endTime": "21:21:12",
-        "duraction": "02:20:28",
+        "duration": "02:20:28",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3315,7 +3315,7 @@
         "startTime": "09:32:55",
         "endDate": "2018-01-31",
         "endTime": "13:21:05",
-        "duraction": "03:48:10",
+        "duration": "03:48:10",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3328,7 +3328,7 @@
         "startTime": "14:32:40",
         "endDate": "2018-01-31",
         "endTime": "17:00:03",
-        "duraction": "02:27:23",
+        "duration": "02:27:23",
         "tags": [
             "wdi-outcomes",
             "wdi-week-9"
@@ -3340,7 +3340,7 @@
         "startTime": "09:00:22",
         "endDate": "2018-02-01",
         "endTime": "10:10:38",
-        "duraction": "01:10:16",
+        "duration": "01:10:16",
         "tags": [
             "wdi-bonus",
             "wdi-project-3",
@@ -3353,7 +3353,7 @@
         "startTime": "10:24:43",
         "endDate": "2018-02-01",
         "endTime": "12:38:27",
-        "duraction": "02:13:44",
+        "duration": "02:13:44",
         "tags": [
             "wdi-bonus",
             "wdi-project-3",
@@ -3366,7 +3366,7 @@
         "startTime": "14:00:56",
         "endDate": "2018-02-01",
         "endTime": "21:32:31",
-        "duraction": "07:31:35",
+        "duration": "07:31:35",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3379,7 +3379,7 @@
         "startTime": "09:20:15",
         "endDate": "2018-02-02",
         "endTime": "10:33:31",
-        "duraction": "01:13:16",
+        "duration": "01:13:16",
         "tags": [
             "wdi-mvp",
             "wdi-project-3",
@@ -3392,7 +3392,7 @@
         "startTime": "10:33:34",
         "endDate": "2018-02-02",
         "endTime": "13:58:07",
-        "duraction": "03:24:33",
+        "duration": "03:24:33",
         "tags": [
             "wdi-bonus",
             "wdi-project-3",
@@ -3405,7 +3405,7 @@
         "startTime": "14:36:44",
         "endDate": "2018-02-02",
         "endTime": "16:39:58",
-        "duraction": "02:03:14",
+        "duration": "02:03:14",
         "tags": [
             "wdi-project-3",
             "wdi-week-9"
@@ -3417,7 +3417,7 @@
         "startTime": "09:00:39",
         "endDate": "2018-02-05",
         "endTime": "09:54:47",
-        "duraction": "00:54:08",
+        "duration": "00:54:08",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3429,7 +3429,7 @@
         "startTime": "10:04:42",
         "endDate": "2018-02-05",
         "endTime": "11:17:52",
-        "duraction": "01:13:10",
+        "duration": "01:13:10",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3441,7 +3441,7 @@
         "startTime": "11:30:58",
         "endDate": "2018-02-05",
         "endTime": "12:37:33",
-        "duraction": "01:06:35",
+        "duration": "01:06:35",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3453,7 +3453,7 @@
         "startTime": "14:30:31",
         "endDate": "2018-02-05",
         "endTime": "15:26:26",
-        "duraction": "00:55:55",
+        "duration": "00:55:55",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3465,7 +3465,7 @@
         "startTime": "15:36:10",
         "endDate": "2018-02-05",
         "endTime": "16:36:10",
-        "duraction": "01:00:00",
+        "duration": "01:00:00",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3477,7 +3477,7 @@
         "startTime": "08:59:44",
         "endDate": "2018-02-06",
         "endTime": "09:32:55",
-        "duraction": "00:33:11",
+        "duration": "00:33:11",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3489,7 +3489,7 @@
         "startTime": "09:41:02",
         "endDate": "2018-02-06",
         "endTime": "10:10:05",
-        "duraction": "00:29:03",
+        "duration": "00:29:03",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3502,7 +3502,7 @@
         "startTime": "10:12:43",
         "endDate": "2018-02-06",
         "endTime": "10:48:55",
-        "duraction": "00:36:12",
+        "duration": "00:36:12",
         "tags": [
             "wdi-bonus",
             "wdi-lab",
@@ -3515,7 +3515,7 @@
         "startTime": "10:51:52",
         "endDate": "2018-02-06",
         "endTime": "11:58:27",
-        "duraction": "01:06:35",
+        "duration": "01:06:35",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3528,7 +3528,7 @@
         "startTime": "11:59:44",
         "endDate": "2018-02-06",
         "endTime": "12:00:14",
-        "duraction": "00:00:30",
+        "duration": "00:00:30",
         "tags": [
             "wdi-outcomes",
             "wdi-week-10"
@@ -3540,7 +3540,7 @@
         "startTime": "14:32:47",
         "endDate": "2018-02-06",
         "endTime": "15:00:56",
-        "duraction": "00:28:09",
+        "duration": "00:28:09",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3552,7 +3552,7 @@
         "startTime": "15:12:50",
         "endDate": "2018-02-06",
         "endTime": "16:59:19",
-        "duraction": "01:46:29",
+        "duration": "01:46:29",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3564,7 +3564,7 @@
         "startTime": "17:35:31",
         "endDate": "2018-02-06",
         "endTime": "18:11:51",
-        "duraction": "00:36:20",
+        "duration": "00:36:20",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3577,7 +3577,7 @@
         "startTime": "09:00:46",
         "endDate": "2018-02-07",
         "endTime": "09:43:40",
-        "duraction": "00:42:54",
+        "duration": "00:42:54",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3589,7 +3589,7 @@
         "startTime": "10:00:20",
         "endDate": "2018-02-07",
         "endTime": "10:41:16",
-        "duraction": "00:40:56",
+        "duration": "00:40:56",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3601,7 +3601,7 @@
         "startTime": "10:47:16",
         "endDate": "2018-02-07",
         "endTime": "12:29:38",
-        "duraction": "01:42:22",
+        "duration": "01:42:22",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3613,7 +3613,7 @@
         "startTime": "14:31:26",
         "endDate": "2018-02-07",
         "endTime": "16:43:59",
-        "duraction": "02:12:33",
+        "duration": "02:12:33",
         "tags": [
             "wdi-outcomes",
             "wdi-week-10"
@@ -3625,7 +3625,7 @@
         "startTime": "17:38:01",
         "endDate": "2018-02-07",
         "endTime": "21:11:07",
-        "duraction": "03:33:06",
+        "duration": "03:33:06",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3638,7 +3638,7 @@
         "startTime": "09:01:24",
         "endDate": "2018-02-08",
         "endTime": "09:44:47",
-        "duraction": "00:43:23",
+        "duration": "00:43:23",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3650,7 +3650,7 @@
         "startTime": "10:01:44",
         "endDate": "2018-02-08",
         "endTime": "10:56:52",
-        "duraction": "00:55:08",
+        "duration": "00:55:08",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3662,7 +3662,7 @@
         "startTime": "11:08:46",
         "endDate": "2018-02-08",
         "endTime": "12:40:56",
-        "duraction": "01:32:10",
+        "duration": "01:32:10",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3674,7 +3674,7 @@
         "startTime": "14:33:05",
         "endDate": "2018-02-08",
         "endTime": "15:40:32",
-        "duraction": "01:07:27",
+        "duration": "01:07:27",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3686,7 +3686,7 @@
         "startTime": "15:54:56",
         "endDate": "2018-02-08",
         "endTime": "17:05:57",
-        "duraction": "01:11:01",
+        "duration": "01:11:01",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3698,7 +3698,7 @@
         "startTime": "17:37:39",
         "endDate": "2018-02-08",
         "endTime": "18:46:28",
-        "duraction": "01:08:49",
+        "duration": "01:08:49",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3711,7 +3711,7 @@
         "startTime": "09:04:22",
         "endDate": "2018-02-09",
         "endTime": "09:54:12",
-        "duraction": "00:49:50",
+        "duration": "00:49:50",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3723,7 +3723,7 @@
         "startTime": "10:06:43",
         "endDate": "2018-02-09",
         "endTime": "10:51:53",
-        "duraction": "00:45:10",
+        "duration": "00:45:10",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3735,7 +3735,7 @@
         "startTime": "11:08:01",
         "endDate": "2018-02-09",
         "endTime": "11:43:33",
-        "duraction": "00:35:32",
+        "duration": "00:35:32",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3747,7 +3747,7 @@
         "startTime": "14:35:26",
         "endDate": "2018-02-09",
         "endTime": "15:09:44",
-        "duraction": "00:34:18",
+        "duration": "00:34:18",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3759,7 +3759,7 @@
         "startTime": "15:16:39",
         "endDate": "2018-02-09",
         "endTime": "17:00:12",
-        "duraction": "01:43:33",
+        "duration": "01:43:33",
         "tags": [
             "wdi-class",
             "wdi-week-10"
@@ -3771,7 +3771,7 @@
         "startTime": "17:17:27",
         "endDate": "2018-02-11",
         "endTime": "19:25:17",
-        "duraction": "02:07:50",
+        "duration": "02:07:50",
         "tags": [
             "wdi-study",
             "wdi-week-11"
@@ -3783,7 +3783,7 @@
         "startTime": "09:01:22",
         "endDate": "2018-02-12",
         "endTime": "09:48:46",
-        "duraction": "00:47:24",
+        "duration": "00:47:24",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3795,7 +3795,7 @@
         "startTime": "10:01:26",
         "endDate": "2018-02-12",
         "endTime": "10:43:35",
-        "duraction": "00:42:09",
+        "duration": "00:42:09",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3807,7 +3807,7 @@
         "startTime": "10:59:03",
         "endDate": "2018-02-12",
         "endTime": "11:41:45",
-        "duraction": "00:42:42",
+        "duration": "00:42:42",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3819,7 +3819,7 @@
         "startTime": "11:53:11",
         "endDate": "2018-02-12",
         "endTime": "12:29:27",
-        "duraction": "00:36:16",
+        "duration": "00:36:16",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3831,7 +3831,7 @@
         "startTime": "14:39:13",
         "endDate": "2018-02-12",
         "endTime": "16:15:50",
-        "duraction": "01:36:37",
+        "duration": "01:36:37",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3844,7 +3844,7 @@
         "startTime": "09:02:01",
         "endDate": "2018-02-13",
         "endTime": "09:49:33",
-        "duraction": "00:47:32",
+        "duration": "00:47:32",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3856,7 +3856,7 @@
         "startTime": "10:00:13",
         "endDate": "2018-02-13",
         "endTime": "10:42:05",
-        "duraction": "00:41:52",
+        "duration": "00:41:52",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3868,7 +3868,7 @@
         "startTime": "10:54:23",
         "endDate": "2018-02-13",
         "endTime": "12:27:29",
-        "duraction": "01:33:06",
+        "duration": "01:33:06",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3880,7 +3880,7 @@
         "startTime": "14:47:46",
         "endDate": "2018-02-13",
         "endTime": "15:23:10",
-        "duraction": "00:35:24",
+        "duration": "00:35:24",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3893,7 +3893,7 @@
         "startTime": "15:43:23",
         "endDate": "2018-02-13",
         "endTime": "16:54:54",
-        "duraction": "01:11:31",
+        "duration": "01:11:31",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3906,7 +3906,7 @@
         "startTime": "09:01:36",
         "endDate": "2018-02-14",
         "endTime": "09:42:23",
-        "duraction": "00:40:47",
+        "duration": "00:40:47",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3918,7 +3918,7 @@
         "startTime": "10:09:01",
         "endDate": "2018-02-14",
         "endTime": "12:29:17",
-        "duraction": "02:20:16",
+        "duration": "02:20:16",
         "tags": [
             "wdi-lab",
             "wdi-mvp",
@@ -3931,7 +3931,7 @@
         "startTime": "14:32:12",
         "endDate": "2018-02-14",
         "endTime": "15:54:37",
-        "duraction": "01:22:25",
+        "duration": "01:22:25",
         "tags": [
             "wdi-outcomes",
             "wdi-week-11"
@@ -3943,7 +3943,7 @@
         "startTime": "19:42:22",
         "endDate": "2018-02-14",
         "endTime": "20:37:14",
-        "duraction": "00:54:52",
+        "duration": "00:54:52",
         "tags": [
             "wdi-hw",
             "wdi-mvp",
@@ -3956,7 +3956,7 @@
         "startTime": "09:00:12",
         "endDate": "2018-02-15",
         "endTime": "11:25:01",
-        "duraction": "02:24:49",
+        "duration": "02:24:49",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3968,7 +3968,7 @@
         "startTime": "13:30:25",
         "endDate": "2018-02-15",
         "endTime": "15:37:18",
-        "duraction": "02:06:53",
+        "duration": "02:06:53",
         "tags": [
             "wdi-class",
             "wdi-week-11"
@@ -3980,7 +3980,7 @@
         "startTime": "16:30:04",
         "endDate": "2018-02-15",
         "endTime": "17:00:19",
-        "duraction": "00:30:15",
+        "duration": "00:30:15",
         "tags": [
             "wdi-squad-scrum",
             "wdi-week-11"
@@ -3992,7 +3992,7 @@
         "startTime": "16:53:33",
         "endDate": "2018-02-19",
         "endTime": "18:19:08",
-        "duraction": "01:25:35",
+        "duration": "01:25:35",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4005,7 +4005,7 @@
         "startTime": "18:19:10",
         "endDate": "2018-02-19",
         "endTime": "19:42:12",
-        "duraction": "01:23:02",
+        "duration": "01:23:02",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4018,7 +4018,7 @@
         "startTime": "08:55:43",
         "endDate": "2018-02-20",
         "endTime": "10:02:51",
-        "duraction": "01:07:08",
+        "duration": "01:07:08",
         "tags": [
             "wdi-outcomes",
             "wdi-week-12"
@@ -4030,7 +4030,7 @@
         "startTime": "10:19:38",
         "endDate": "2018-02-20",
         "endTime": "10:26:50",
-        "duraction": "00:07:12",
+        "duration": "00:07:12",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4043,7 +4043,7 @@
         "startTime": "10:26:51",
         "endDate": "2018-02-20",
         "endTime": "10:52:35",
-        "duraction": "00:25:44",
+        "duration": "00:25:44",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4056,7 +4056,7 @@
         "startTime": "10:52:38",
         "endDate": "2018-02-20",
         "endTime": "11:49:04",
-        "duraction": "00:56:26",
+        "duration": "00:56:26",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4069,7 +4069,7 @@
         "startTime": "11:49:05",
         "endDate": "2018-02-20",
         "endTime": "11:53:50",
-        "duraction": "00:04:45",
+        "duration": "00:04:45",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4082,7 +4082,7 @@
         "startTime": "13:05:24",
         "endDate": "2018-02-20",
         "endTime": "15:53:10",
-        "duraction": "02:47:46",
+        "duration": "02:47:46",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4095,7 +4095,7 @@
         "startTime": "16:08:06",
         "endDate": "2018-02-20",
         "endTime": "16:33:22",
-        "duraction": "00:25:16",
+        "duration": "00:25:16",
         "tags": [
             "wdi-outcomes",
             "wdi-week-12"
@@ -4107,7 +4107,7 @@
         "startTime": "17:52:52",
         "endDate": "2018-02-20",
         "endTime": "19:25:58",
-        "duraction": "01:33:06",
+        "duration": "01:33:06",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4120,7 +4120,7 @@
         "startTime": "08:57:38",
         "endDate": "2018-02-21",
         "endTime": "10:52:09",
-        "duraction": "01:54:31",
+        "duration": "01:54:31",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4133,7 +4133,7 @@
         "startTime": "11:10:54",
         "endDate": "2018-02-21",
         "endTime": "12:18:04",
-        "duraction": "01:07:10",
+        "duration": "01:07:10",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4146,7 +4146,7 @@
         "startTime": "13:12:27",
         "endDate": "2018-02-21",
         "endTime": "13:53:16",
-        "duraction": "00:40:49",
+        "duration": "00:40:49",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4159,7 +4159,7 @@
         "startTime": "14:07:16",
         "endDate": "2018-02-21",
         "endTime": "15:28:58",
-        "duraction": "01:21:42",
+        "duration": "01:21:42",
         "tags": [
             "wdi-outcomes",
             "wdi-week-12"
@@ -4171,7 +4171,7 @@
         "startTime": "15:42:34",
         "endDate": "2018-02-21",
         "endTime": "16:24:57",
-        "duraction": "00:42:23",
+        "duration": "00:42:23",
         "tags": [
             "wdi-outcomes",
             "wdi-week-12"
@@ -4183,7 +4183,7 @@
         "startTime": "17:00:28",
         "endDate": "2018-02-21",
         "endTime": "17:56:33",
-        "duraction": "00:56:05",
+        "duration": "00:56:05",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",
@@ -4196,7 +4196,7 @@
         "startTime": "09:12:32",
         "endDate": "2018-02-22",
         "endTime": "10:17:17",
-        "duraction": "01:04:45",
+        "duration": "01:04:45",
         "tags": [
             "wdi-mvp",
             "wdi-project-4",

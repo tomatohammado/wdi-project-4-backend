@@ -1,12 +1,12 @@
 const mongoose = require('mongoose')
 
-const localMongoUri = 'mongodb://localhost/wdiToggleTimesheets'
+const localMongoUri = 'mongodb://localhost/wdiTogglTimesheets'
 
 if (process.env.NODE_ENV === 'production') {
   mongoose.connect(process.env.MLAB_URL)
 } else {
   mongoose.connect(localMongoUri)
-    .then(connection => console.log(`connection established to db ${connection.connections[0].name}`))
+    .then(connection => console.log(`connection established to db: ${connection.connections[0].name}`))
     .catch(error => console.log('Connection Failed!', error))
 }
 
