@@ -7,7 +7,7 @@ const TimesheetSchema = new mongoose.Schema({
   endDate: String,
   endTime: String,
   duration: String,
-  tags: Array
+  tags: [String]
 })
 
 const Timesheet = mongoose.model('Timesheet', TimesheetSchema)

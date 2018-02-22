@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Class",
+        "duration": "181:06:12",
+        "durationInSeconds": 651972
+    },
+    {
+        "task": "Homework",
+        "duration": "46:23:39",
+        "durationInSeconds": 167019
+    },
+    {
+        "task": "Labs",
+        "duration": "54:11:53",
+        "durationInSeconds": 195113
+    },
+    {
+        "task": "Projects",
+        "duration": "116:31:52",
+        "durationInSeconds": 419512
+    },
+    {
+        "task": "Outcomes",
+        "duration": "28:22:20",
+        "durationInSeconds": 102140
+    },
+    {
+        "task": "MVP",
+        "duration": "152:06:24",
+        "durationInSeconds": 547584
+    },
+    {
+        "task": "Bonus",
+        "duration": "47:23:03",
+        "durationInSeconds": 170583
+    }
+]

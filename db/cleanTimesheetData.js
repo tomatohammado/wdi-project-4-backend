@@ -1,7 +1,7 @@
 const fs = require('fs')
-const dirtySeedData = require('./all-timesheet-entries.json')
+const dirtySeedData = require('./dirtySeedData/all-timesheet-entries.json')
 
-let cleanedSeedData = dirtySeedData.map(timesheet => {
+let cleanedTimesheetData = dirtySeedData.map(timesheet => {
   let newTimesheet = {}
   newTimesheet.description = timesheet.Description
   newTimesheet.startDate = timesheet['Start date']
@@ -13,7 +13,7 @@ let cleanedSeedData = dirtySeedData.map(timesheet => {
   return newTimesheet
 })
 
-fs.writeFile('./db/timesheetSeedData.json', JSON.stringify(cleanedSeedData), 'utf8', err => {
+fs.writeFile('./db/timesheetSeedData.json', JSON.stringify(cleanedTimesheetData), 'utf8', err => {
   if (err) console.log(err)
   else console.log('success!!!')
 })
