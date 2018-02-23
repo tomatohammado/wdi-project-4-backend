@@ -3,7 +3,7 @@ const Router = express.Router()
 
 const timesheetController = require('../controller/timesheets')
 
-Router.route('/weekly/durations')
-  .get(timesheetController.getWeeklyDurations)
+Router.route('/duration/mvp-bonus')
+  .get(timesheetController.getMvpBonusAllTasks)
 
 module.exports = Router

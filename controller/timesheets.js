@@ -1,45 +1,85 @@
 const Timesheet = require('../db/models/timesheet')
+const moment = require('moment')
 
-function getWeeklyDurations (req, res) {
+// These should be in a separate Utility.js file or something to that effect
+
+function convertSecondsToHHMMSS (durationSeconds) {
+  let hours = Math.floor(durationSeconds / 3600)
+  let hoursRemainder = durationSeconds % 3600
+
+  let minutes = Math.floor(hoursRemainder / 60)
+  let seconds = durationSeconds % 60
+
+  return `${hours}:${minutes}:${seconds}`
+}
+
+function getTaskMvpBonus (timesheets, task, taskTag) {
+  let filteredTimesheets = timesheets.filter(timesheet => (
+    timesheet.tags.includes(taskTag)
+  ))
+  let mvpDuration = 0
+  let bonusDuration = 0
+
+  filteredTimesheets.forEach(timsheet => {
+    if (timsheet.tags.includes('wdi-mvp')) {
+      mvpDuration += moment.duration(timsheet.duration).asSeconds()
+    }
+
+    if (timsheet.tags.includes('wdi-bonus')) {
+      bonusDuration += moment.duration(timsheet.duration).asSeconds()
+    }
+  })
+
+  let mvpDurationFormatted = convertSecondsToHHMMSS(mvpDuration)
+  let bonusDurationFormatted = convertSecondsToHHMMSS(bonusDuration)
+
+  let output = {
+    task: task,
+    tag: taskTag,
+    mvpDuration: mvpDuration,
+    bonusDuration: bonusDuration,
+    mvpDurationFormatted: mvpDurationFormatted,
+    bonusDurationFormatted: bonusDurationFormatted
+  }
+
+  return output
+}
+
+// Controller Functions
+
+function getMvpBonusAllTasks (req, res) {
+  // Projects are conspicuously omitted, because I need to add a high-level 'wdi-project' tag to cover all of them, and that's something I should do in toggl itselg
+  const tasksCollection = [
+    {
+      task: 'Class',
+      taskTag: 'wdi-class'
+    },
+    {
+      task: 'Homework',
+      taskTag: 'wdi-hw'
+    },
+    {
+      task: 'Labs',
+      taskTag: 'wdi-lab'
+    }
+    // {
+    //   task: 'Projects',
+    //   taskTag: 'wdi-project'
+    // }
+  ]
+
   Timesheet.find({})
     .then(timesheets => {
-      function getDurationByTag (taskTag, weekTag) {
-        timesheets.reduce((duration, timesheet) => {
-          if (timesheet.tags.includes(taskTag) && timesheet.tags.includes(weekTag)) {
-            duration += timesheet.duration
-          }
-          return duration
-        }, 0)
-      }
+      let output = []
+      tasksCollection.forEach(taskObj => {
+        let outputItem = getTaskMvpBonus(timesheets, taskObj.task, taskObj.taskTag)
+        output.push(outputItem)
+      })
 
-      let projectTags = [
-        'wdi-project-1',
-        'wdi-project-2',
-        'wdi-project-3',
-        'wdi-project-4'
-      ]
-      let timesheetsOutput = []
-
-      for (let i = 1; i <= 12; i++) {
-        let outputObject = {}
-        let weekTag = `wdi-week-${i}`
-        outputObject.week = `Week ${i}`
-        outputObject.classDuration = getDurationByTag('wdi-class', weekTag)
-        outputObject.homeworkDuration = getDurationByTag('wdi-hw', weekTag)
-        outputObject.labsDuration = getDurationByTag('wdi-labs', weekTag)
-        let projectDurationTotal = projectTags.map(projectTag => {
-          return getDurationByTag(projectTag, weekTag)
-        }).reduce((duration, projectDuration) => {
-          return duration + projectDuration
-        }, 0)
-        outputObject.projectDuration = projectDurationTotal
-        timesheets.push(outputObject)
-      }
-
-      res.json(timesheetsOutput)
+      res.json(output)
     })
 }
 
 module.exports = {
-  getWeeklyDurations
+  getMvpBonusAllTasks
 }
